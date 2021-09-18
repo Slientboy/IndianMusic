@@ -44,7 +44,7 @@ Use [Repl Link](https://replit.com/@shubham-king/getStringName#main.py) to get p
 
 ### 𝐃𝐞𝐩𝐥𝐩𝐲 𝐰𝐢𝐭𝐡 𝐍𝐄𝐓𝐋𝐈𝐅𝐘
 
-[![Deploy with Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy=https://github.com/shubham-king/NoonRooted)
+[![Deploy with Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/shubham-king/NoonRooted)
 
 First on Telegram❤️❤️  This is new place were you can deploy this bot!Get freee dynos No Payment required!!
 
