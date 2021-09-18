@@ -29,7 +29,7 @@
 
 ### ᴅᴇᴘʟᴏʏ ᴛᴏ ʜᴇʀᴏᴋᴜ</h4>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/shubham-king/IndianMusic)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/shubham-king/NoonRooted)
 
 ### ᴘʏʀᴏɢʀᴀᴍ ꜱᴇꜱꜱɪᴏɴ
 Use [Repl Link](https://replit.com/@shubham-king/getStringName#main.py) to get pyrogram string session
