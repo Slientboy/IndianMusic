@@ -1,10 +1,10 @@
 # XMARTY_MUSIC
-<h2 align="centre">🎵 xᴍᴀʀᴛʏ ᴍᴜꜱɪᴄ ʙᴏᴛ 🎵</h2>
+<h2 align="centre">🎵 INDIAN HINDI MUSIC  🎵</h2>
 
 ### ᴀ ʙᴏᴛ ᴛʜᴀᴛ ᴄᴀɴ ᴘʟᴀʏ ᴍᴜꜱɪᴄ ɪɴ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘ ᴏɴ ᴠᴏɪᴄᴇ ᴄᴀʟʟ 
 
 <p align="center">
-  <img src="https://telegra.ph/file/3aa55e7efe0fabf05da4e.jpg">
+  <img src="https://telegra.ph/file/4cb79a050a314fb747577.jpg">
 </p>
 
 <h3>Requirements 📝</h3>
@@ -32,7 +32,7 @@
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/S780821/XMARTY_MUSIC)
 
 ### ᴘʏʀᴏɢʀᴀᴍ ꜱᴇꜱꜱɪᴏɴ
-Use [Repl Link](https://replit.com/@S780821/PyrogramSession) to get pyrogram string session
+Use [Repl Link](https://replit.com/@shubham-king/getStringName#main.py) to get pyrogram string session
 
 
 
