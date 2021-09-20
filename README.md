@@ -48,9 +48,10 @@ Use [Repl Link](https://replit.com/@shubham-king/getStringName#main.py) to get p
 
 First on Telegram❤️❤️  This is new place were you can deploy this bot!Get freee dynos No Payment required!!
 
-### 𝐃𝐞𝐩𝐥𝐨𝐲 𝐰𝐢𝐭𝐡 𝐕𝐄𝐑𝐂𝐄𝐋
+### 𝐃𝐞𝐩𝐥𝐨𝐲 𝐰𝐢𝐭𝐡 𝐕𝐄𝐑𝐂𝐄𝐋 
+  
+  <a href="https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fshubham-king%2FNoonRooted&env=SESSION_NAME,API_ID,API_HASH,BOT_TOKEN,BOT_USERNAME,DURATION_LIMIT,SUDO_USERS"><img src="https://vercel.com/button" alt="Deploy with Vercel"/></a>
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/clone?repository-url=https://github.com/shubham-king/NoonRooted&env=API_ID,API_HASH,BOT_TOKEN,BOT_USERNAME,SUDO_USERS,DURATION_LIMIT,SESSION_NAME)
 
 First on Telegram ❤️❤️ This is New feature where you can deploy on vercel
 
