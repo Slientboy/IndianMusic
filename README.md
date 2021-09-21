@@ -42,7 +42,7 @@ Use [Repl Link](https://replit.com/@shubham-king/getStringName#main.py) to get p
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Fshubham-king%2FIndianMusic&template=https%3A%2F%2Fgithub.com%2Fshubham-king%2FNoonRooted)
 
 
-### 𝐃𝐞𝐩𝐥𝐩𝐲 𝐰𝐢𝐭𝐡 𝐍𝐄𝐓𝐋𝐈𝐅𝐘
+### 𝐃𝐞𝐩𝐥𝐩𝐲 𝐰𝐢𝐭𝐡 𝐍𝐄𝐓𝐋𝐈𝐅𝐘 (closed) BSDK 😂 YE SITE HOST HAi
 
 [![Deploy with Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/shubham-king/NoonRooted)
 
